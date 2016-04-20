@@ -1,0 +1,18 @@
+footer {
+	margin-top: 180px;
+}
+
+#mbackend-main-nav {
+	background-color: #34495e;
+}
+
+.mbackend-nav-left {
+	padding-left: 100px;
+}
+
+.mbackend-application-col {
+	
+}
+.pagination li>a, .pagination li>span {
+	  color: #34495e!important; 
+}
